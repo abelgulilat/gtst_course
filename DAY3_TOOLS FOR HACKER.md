@@ -29,3 +29,19 @@ XFCA, ZSH, APT
   - Username, Hostname, Current Directory, Privilege (user($),root(/)), Command Place
   (. )  local directory
   (*) All directory
+---------------------------------------------------
+Missing Part
+
+---
+
+grep - global search for regular expression
+ - pattern is regular expression
+  grep [option] pattern [filename]
+  
+  -i, -c,  -l, -R, -v , -n - w
+  
+WC- WORD COUNT
+- -l ,-w , -c
+
+Multiple Command Execution
+ - &&,  || ,  |  (pipe)
