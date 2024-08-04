@@ -20,3 +20,18 @@ pid process ID
 - we use "&" operator to run at background
 - "fg" to get background process to foreground
 ## Null Device
+- command  1> /dev/null
+- command  2> /dev/null
+## Symbolic Linking
+- ln -s "directory" [shortcut name]
+## alias
+alias shortcut_name ="command"
+- "sh" -- [~/.shrc]
+- "zsh" --[ ~/.zshrc]
+- "Fish" -- [~/.config/fish/config.fish]
+ you have to save their as a comment
+ 
+ ####  tmux
+- [ /.tmux.conf]
+
+ 
