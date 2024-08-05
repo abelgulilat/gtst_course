@@ -33,5 +33,11 @@ alias shortcut_name ="command"
  
  ####  tmux
 - [ /.tmux.conf]
+- ctrl+A ,o  horizontal
+- Ctrl+A,e   vertical
+- ctrl+A,x    exit
+- ctrl+A,c    tab
+- ctrl+A   ,   rename
+- ctrl+A+number (arrow)
 
  
