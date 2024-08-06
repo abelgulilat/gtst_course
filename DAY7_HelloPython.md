@@ -35,3 +35,13 @@
 	- parallel processing hardware and AI software(Expert System, Natural Language Processing, Speech recognition, Voice recognition, Robotics)
 	- high level language (C, C++, JAVA, .NET)
 	- ROBOT , APPLICATION, this generation computer ex(intel dual core microprocessor)
+## Type of Programming Language
+- the more close to machine language it become fast programming language
+- machine language lowest level of programing language consists (0's, 1's) load ,jump, ... 
+- machine language is used to primarily system programming ----- Specific to each computer architecture.
+	- based on closeness
+1. Low level Programming language (Assembly)--- X86 Assembly(intel/AMD processor), ARM Assembly  ---Specific to each computer architecture.
+	- greater control over hardware
+2. High level Programming language (Python, C++, Java, JS, C#)
+3.  Medium level Programming language(C) 
+	- high level programming  feature and low level memory management make them versatile
