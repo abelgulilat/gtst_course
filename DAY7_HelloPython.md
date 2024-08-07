@@ -44,4 +44,13 @@
 	- greater control over hardware
 2. High level Programming language (Python, C++, Java, JS, C#)
 3.  Medium level Programming language(C) 
-	- high level programming  feature and low level memory management make them versatile
+	- high level programming  feature and low level memory management make them versatile.
+
+## Complier and Interpreter
+
+- Complier-----translate entire code into machine code before the program run.(C++,JAVA)
+- Interpreter---translate high level language code into machine language line by line as the                                program run.(Python)
+
+## History of python
+- Developed by Guido van Rossum derived from (ABC, C++, C, Unix shell...) 1989
+-  successor of ABC language
