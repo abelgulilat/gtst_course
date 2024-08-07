@@ -54,3 +54,8 @@
 ## History of python
 - Developed by Guido van Rossum derived from (ABC, C++, C, Unix shell...) 1989
 -  successor of ABC language
+
+## IDE 
+- it is a software tools used for software developer to write, test, debugging, compiler or interpreter
+- Code Editor -- a software used to write and edit code.
+- VS code ---- specific IDE developed by Microsoft
