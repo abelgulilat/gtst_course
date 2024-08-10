@@ -10,7 +10,7 @@
 ## Generation of Computers
 1. First Generation: Vacuum Tube(memory, CPU) ===> input to computer is punch cards, output is print out (1940-1956) the instruction written in machine language(0's, 1's), large in size.
 
-2. Second Generation: (1956-1963)==tansistor== replace vacuum tube == it reduce size of computer and increase efficiency
+2. Second Generation: (1956-1963)==transistor== replace vacuum tube == it reduce size of computer and increase efficiency
 - magnetic core as primary memory, 
 - magnetic tape and magnetic disk seconder memory
 - **the instruction stored in memory written in assembly language
@@ -59,3 +59,14 @@
 - it is a software tools used for software developer to write, test, debugging, compiler or interpreter
 - Code Editor -- a software used to write and edit code.
 - VS code ---- specific IDE developed by Microsoft
+## Variable
+- the process of giving value is called  **Variable Declaration**
+- the word that hold data is called **Identifier**
+
+## Data Type
+1. Numeric Data Type (int, float, complex)
+2. String Data-- sequence character represented by single or double quotes.
+3. Sequence Data (List, Tuple) --
+	- List-----is a ordered collection of similar or different type of item we can modify list                          (list.append("item")).  we use []. we can access by index number.
+	- Tuple ----- -is a ordered collection of similar or different type of item and we cannot                          **immutable**. we use () .we can access by index number.
+4. Dictionary Data---- unordered collection of item. it store element in key/value pairs. 
