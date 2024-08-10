@@ -26,4 +26,17 @@
 - if : else :
 - if : elif : ... else :
 ### nested if statement
-- 
+-  
+### Logical Error
+- this occur at runtime
+- IndexError , ZeroDivisionError, NameError
+- this error cause a huge damage on our program so we have to handle it
+### Error Handling
+- try: 
+- except:
+### Python Loops
+- For loop (iterate list , tuble, string, range)   --- len(list)
+	- for value in list
+	- for i in range(5)
+- While loop===== until a certain condition 
+- break is used to exit from infinite loop.
