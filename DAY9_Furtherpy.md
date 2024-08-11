@@ -14,3 +14,17 @@
 - Filter, map, Reduce take function as argument.
 - filter are used to filter or search from Sequence.   list(filter(even_function, list_item))
 - map are used to do some operation on sequences.   list(map(double_function, list_item))
+List.append("Ball")
+
+### Object-Oriented Programing / OOP
+- a place where we create our object attribute and behaviour .
+- a blueprint for that object.
+- **Object** which have action and name.
+- **Object** have property and method.
+### Creating Methods
+- function are called method on OOP.
+- **Constractor**
+- **Inheritance**
+- **Encapsulation**
+### Package Installation
+
