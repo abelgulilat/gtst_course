@@ -18,4 +18,21 @@
 1. Read Function  ---- read accept input while script running 
 			- read -p "Enter" var  ---- read -sp "password" var------read -a  var----->
 			- echo "enter ${var[0]}"
-1. Arguments    
+2. Arguments    --this help accept input before script start
+				-- echo "hello $1"
+				-echo "hello $2" 
+#### Comment 
+- #  ---for single line
+## Sleep
+			 -for good waiting on our script   ----------1s
+### Operation
+- $((a+b))
+- let a+=1
+- -gt, -lt, -eq, -le, -ge, -ne  (>, <, =, <=, >=, !=)
+### if else condition
+- if[2 -gt 1]
+- then
+- echo "Good1"
+- else
+- echo "Not well"
+- fi
