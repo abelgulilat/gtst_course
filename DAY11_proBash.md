@@ -16,12 +16,21 @@
 -                                  - fi
 #### elif
 #### loop on BASH
-- for loop    for i in {1..10}
+- **for loop    for i in {1..10}
 - do
 - echo $i
 - done
-- while [[expression]]
+- **while [[expression]]
 - do
 - echo
 - done
-
+- **until [expression]
+#### Function 
+- function function_name(){
+- return $(( $1 + $2 ))
+- }
+- function_name $one $two
+- echo $?
+### BASH and Linux
+- we can run Linux command on bash.
+ 
