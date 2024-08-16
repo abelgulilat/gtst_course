@@ -31,6 +31,13 @@
 - }
 - function_name $one $two
 - echo $?
-### BASH and Linux
+#### BASH and Linux
 - we can run Linux command on bash.
+- I can write code on single line.  for i in {1..3}; do echo $i; done
+- echo *   
+- you can access file in current directory on bash. `echo *`
+- you can print on `echo $PWD`
+- you can write for loop on terminal.  for i in *; do echo $i; done
+- you can write for loop on terminal rename. for i in *; do echo mv $i new_$i ; done
+
  
