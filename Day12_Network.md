@@ -13,5 +13,19 @@
 - IP6(128-bit)  .
 - when machine connect to network generate ip and given.
 - every ip address has Network(identify network), HOST(identify the user) parts.
-- public ip (used in WAN network) ,private ip (used in LAN network)
-- NAT(Network Address Translation)
+- **public ip** (used in WAN network) ,**private ip** (used in LAN network).
+- NAT(Network Address Translation).
+
+#### Five class of private ip4
+- class A(host 24bit) --(0-127 bit)
+- B(host 16bit) ---- (128-191bit)
+- C(host 8bit) ------(192-223bit)
+- D E
+#### Reserved IPV4 Address--- 
+- cannot be assigned to device on a network.
+1. address for beginning 127 reserved for loop back and internal testing.
+2. 0's for all hosting bit reserved for network address.
+3. 1 or 255 for all hosting bit position is reserved for broadcast address
+#### IPv6
+- it is alphanumberic. identify an end point device.
+- automatically generated.
