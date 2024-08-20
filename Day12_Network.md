@@ -35,7 +35,7 @@
 -                       - Universally Administered Address.
 #### OSI Reference model
 - An idea that way network work. it show how data transfer between 2 hosts/servers.
-- there are 7 layer.(1-3  communication technology,  4-7  to user application)
+- there are 7 layer.(1-3  communication technology,  5-7  to user application)
 ###### Layer-7 (Application Layer)
 - represent service and provide data to the presentation layer.
 - use protocols : HTTP, FTP, MTP.
@@ -60,10 +60,45 @@
 -                        :-resend missing packet.
 -  YOUR DATA : SEGMENTS
 - use PROTOCOLS  : TCP, UDP.
-##### Layer-5 (Network Layer)
+##### Layer-3 (Network Layer)
 - manage address of data with in ip address.
 - addresses message and translates logical address and name to physical address.
 - determine the route from the source to the destination computer.
 - manage traffic problem such as switching , routing, controlling the congestion of data packets.
 - your data is PACKET.
-- use PROTOCOLS : ICMP, ARP, NAT, IP
+- use PROTOCOLS : ICMP, ARP, NAT, IP.
+##### Layer-2 (Data Link Layer)
+- receiver : Package raw from physical layer into frames.(structured packet for data.)
+- reliable transmission of frame.
+-                             :-  it waits for an acknowledgment from receiving computer.
+-                             :- retransmission frame not received acknowledgement. 
+- your data is FRAMES.
+- PROTOCOLS : PPP, NDP, CDP.
+##### Layer-1 (Physical Layer)
+- Transmit bits from one computer to another.
+- Regulate the transmission of a stream of bits over a physical medium.
+- Define how the cable is attached to the network adapter and
+- What transmission technique is used to send data over cable.
+-                    :- definition of 0's and 1's. how many volt represents a 1 and how long a bit lasts.
+-                     :- how many pin a connector has, and what function of each pin is ?
+- Your DATA is Bits
+- PROTOCOLS : RS-449.
+###### TCP 
+- CONNECTION - Oriented protocol.
+- establishes connection between receiver and sender. it uses three way Hand Shake .(eg email, online video , simple browsing).
+##### UDP
+- connectionless.
+- less reliable, but faster and more straightforward.
+- used in higher speed like Streaming or Gaming.
+#### TCP/IP
+- a reference model like the OSI model.
+- new model ,most used model have four layer
+#### Firewall
+- network security device that monitor incoming and outgoing network decide whether to allow or block specific traffics.
+- it is a collection of rule to allow and deny network traffics.
+- you cannot access some host from other network .
+- every OS have firewall Built-in.
+**Switch, Router, Hub, Gateway, Repeater, NIC, Modem, Bridge.**
+- Repeater  : - help to boost / amplify the speed of internet, in long route.
+- Bridge : - used to connect different LAN.
+
