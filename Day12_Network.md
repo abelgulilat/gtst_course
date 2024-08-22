@@ -35,7 +35,9 @@
 -                       - Universally Administered Address.
 #### OSI Reference model
 - An idea that way network work. it show how data transfer between 2 hosts/servers.
-- there are 7 layer.(1-3  communication technology,  5-7  to user application)
+- there are 7 layer.(1-3  communication technology,  5-7  to user application).
+- All people seem to need data processing.
+- please do not through sausage pizza away  .
 ###### Layer-7 (Application Layer)
 - represent service and provide data to the presentation layer.
 - use protocols : HTTP, FTP, MTP.
