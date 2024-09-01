@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2259479461be669f",
+        "id": "fd39dfcee12672af",
         "type": "tabs",
         "children": [
           {
-            "id": "8e22e0960e58fff1",
+            "id": "44d8b88dbfb9059d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day14_Scan and Enumeration.md",
+                "file": "DAY4_MORE LINUX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f4159dc9409599e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day15_Malware.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day14_Scan and Enumeration.md",
+                "file": "Day15_Malware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day14_Scan and Enumeration.md",
+                "file": "Day15_Malware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day14_Scan and Enumeration.md"
+                "file": "Day15_Malware.md"
               }
             }
           }
@@ -146,8 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e22e0960e58fff1",
+  "active": "5f4159dc9409599e",
   "lastOpenFiles": [
+    "DAY4_MORE LINUX.md",
+    "Day15_Malware.md",
+    "DAY6_FINAL LINUX.md",
+    "DAY3_TOOLS FOR HACKER.md",
+    "2024-08-30.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Day14_Scan and Enumeration.md"
   ]
 }
