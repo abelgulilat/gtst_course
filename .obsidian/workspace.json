@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day15_Malware.md",
+                "file": "Day15_Social Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day15_Malware.md",
+                "file": "Day15_Social Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day15_Malware.md",
+                "file": "Day15_Social Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day15_Malware.md"
+                "file": "Day15_Social Engineering.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "5f4159dc9409599e",
   "lastOpenFiles": [
-    "DAY4_MORE LINUX.md",
+    "Day1_Introduction.md",
+    "DAY2 _LINUX.md",
     "Day15_Malware.md",
+    "DAY4_MORE LINUX.md",
     "DAY6_FINAL LINUX.md",
     "DAY3_TOOLS FOR HACKER.md",
     "2024-08-30.md",
