@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day17_Cryptography.md",
+                "file": "DAY6_FINAL LINUX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e97658160e943b82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day18_Network Hacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day17_Cryptography.md",
+                "file": "Day18_Network Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day17_Cryptography.md",
+                "file": "Day18_Network Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day17_Cryptography.md"
+                "file": "Day18_Network Hacking.md"
               }
             }
           }
@@ -171,16 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abeee81e70c124f6",
+  "active": "e97658160e943b82",
   "lastOpenFiles": [
-    "Day16_Social Engineering.md",
+    "DAY6_FINAL LINUX.md",
+    "Day18_Network Hacking.md",
     "Day17_Cryptography.md",
+    "Day16_Social Engineering.md",
     "Day15_Malware.md",
     "Day14_Scan and Enumeration.md",
     "DAY4_MORE LINUX.md",
     "Day1_Introduction.md",
     "DAY2 _LINUX.md",
-    "DAY6_FINAL LINUX.md",
     "DAY3_TOOLS FOR HACKER.md",
     "2024-08-30.md",
     "Untitled 2.canvas",
