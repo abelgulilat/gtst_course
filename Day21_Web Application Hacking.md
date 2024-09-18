@@ -1,0 +1,5 @@
+- A web application is a program or software that runs on a web Browser to perform specific tasks.
+- DNS " phonebook of the Internet"   (port 53)  DNS query  (recursive resolver, root nameserver, TLD nameserver, authoritative nameserver )
+- CDN 
+- DNS Records(authoritative nameserver)
+- 
