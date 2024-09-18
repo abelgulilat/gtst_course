@@ -1,5 +1,44 @@
 - A web application is a program or software that runs on a web Browser to perform specific tasks.
 - DNS " phonebook of the Internet"   (port 53)  DNS query  (recursive resolver, root nameserver, TLD nameserver, authoritative nameserver )
 - CDN 
-- DNS Records(authoritative nameserver)
-- 
+- DNS Records(authoritative nameserver) written in DNS syntax 
+	- Nslookup -query=A google.com
+	- Dig AAAA google.com
+	- Host -t MX NS google.com
+- SOA
+- CNAME
+- ANY query
+- nmcli dev show  | grep 'DNS'
+- nmcli dev show  | grep 'ip4.gateway'
+- zone transfer
+- Type of Header
+	- General Header : Cache-Control
+	- Request Header : Host, User-Agent
+	- Response Header : Server, Location
+	- Entity Header : Content-Type, Content-Length
+- Http request methods (GET, POST, PUT, DELETE, OPTIONS,CONNECT, CONNECT)
+- http Parameter(query, path, body)
+- http Status code
+- cookies
+	- Developer, 
+	- Curl -X GET google.com
+	- curl -I google.com
+	- Burp suit(Web proxy)
+#### Website Attack
+- web Enumeration(
+	- Frame work, 
+	- Directories (dirb google.com, dirbuster, goBuster, FFUF, dirsearch -u google.com) 
+		- wget -q male.google.com
+		- sqlite3 stats.db
+	- Senstive file, 
+	- vhosts, 
+	- subdomain(subfinder -d google.com, assetfinder, findomain, subdoaminfinder)
+- web Attack
+	- injection attack(SQL, XSS, SSRF,SSTI)
+	- broken access control
+	- business logic
+	- file upload
+	- race condition
+	- API testing
+	- CSRF
+- OWASP
