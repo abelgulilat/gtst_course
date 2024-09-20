@@ -92,12 +92,12 @@
             }
           },
           {
-            "id": "993d16aae2ac9d87",
+            "id": "3192d20c03fbca71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF-Writeups.md",
+                "file": "CTF-Write up WGEL.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF-Writeups.md",
+                "file": "CTF-Write up WGEL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF-Writeups.md",
+                "file": "CTF-Write up WGEL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF-Writeups.md"
+                "file": "CTF-Write up WGEL.md"
               }
             }
           }
@@ -243,10 +243,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "993d16aae2ac9d87",
+  "active": "3192d20c03fbca71",
   "lastOpenFiles": [
-    "DAY3_TOOLS FOR HACKER.md",
     "CTF-Writeups.md",
+    "CTF-Write up WGEL.md",
+    "DAY3_TOOLS FOR HACKER.md",
     "Day20_System Hacking.md",
     "Day21_Web Application Hacking.md",
     "DAY22_Wireless Network Hacking.md",
