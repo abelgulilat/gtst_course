@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "f17f099d7b4dc116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day24_Bug.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5f4159dc9409599e",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day20_System Hacking.md",
+                "file": "Day24_Bug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day20_System Hacking.md",
+                "file": "Day24_Bug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day20_System Hacking.md"
+                "file": "Day24_Bug.md"
               }
             }
           }
@@ -243,10 +255,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3192d20c03fbca71",
+  "active": "f17f099d7b4dc116",
   "lastOpenFiles": [
-    "Day19_Anonmouy.md",
     "Day20_System Hacking.md",
+    "Day24_Bug.md",
+    "Day19_Anonmouy.md",
     "CTF-Write up WGEL.md",
     "CTF-Writeups.md",
     "DAY3_TOOLS FOR HACKER.md",
